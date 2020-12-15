@@ -1,0 +1,26 @@
+.item__div:hover {
+  transform: scale(1.15);
+  z-index: 2;
+}
+
+.empty__item__div {
+  opacity: 0.1;
+}
+
+.item {
+  position: absolute;
+  width: 50%;
+  font-size: 1rem;
+  background-color: rgb(129, 129, 129);
+  text-align: center;
+}
+
+.item__price {
+  bottom: 0;
+  left: 0;
+}
+
+.item__code {
+  bottom: 0;
+  right: 0;
+}

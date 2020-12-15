@@ -1,0 +1,24 @@
+.keyPad_row {
+  display: flex;
+}
+
+.keypad__form__container {
+  width: 80%;
+  margin: 2rem auto;
+}
+
+.keypad__button {
+  border-radius: 25%;
+  background-color: rgba(30, 31, 32, 0.534);
+  color: white;
+  font-weight: 600;
+}
+
+.keypad__container {
+  margin-top: 1rem;
+}
+
+.keypad__input {
+  border-radius: 15%;
+  text-align: center;
+}

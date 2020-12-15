@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.vending__row {
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+  height: 9rem;
+  margin: 0 0 0 auto;
+}
+
+.vending__machine {
+  margin-top: 20px;
+  display: flex;
+  width: 65%;
+  margin-left: 10rem;
+}
+
+.vending__controls {
+  background-color: rgb(129, 129, 129);
+  width: 25%;
+}
+
+.vending__credit {
+  height: 50%;
+  border-bottom: 1px solid black;
+}
+
+.vending__keypad {
+  height: 50%;
+  padding-bottom: 20px;
+}
+
+.item__span {
+  margin: 30px;
+}

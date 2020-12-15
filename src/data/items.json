@@ -1,0 +1,164 @@
+[
+    {
+        "id":"1",
+        "name":"Pepsi",
+        "quantity": "4",
+        "price": "10",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61GmZXCIyzL._AC_SX522_.jpg",
+        "code": "11"
+    },
+    
+    {
+        "id":"2",
+        "name":"Pepsi",
+        "quantity": "6",
+        "price": "10",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61GmZXCIyzL._AC_SX522_.jpg",
+        "code": "12"
+    },
+    
+    {
+        "id":"3",
+        "name":"Pepsi",
+        "quantity": "2",
+        "price": "10",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61GmZXCIyzL._AC_SX522_.jpg",
+        "code": "13"
+    },
+    {
+        "id":"4",
+        "name":"Coke",
+        "quantity": "6",
+        "price": "10",
+        "image": "https://logorealm.com/wp-content/uploads/2017/03/Coca-Cola-Logo.png",
+        "code": "14"
+    },
+    {
+        "id":"5",
+        "name":"Coke",
+        "quantity": "3",
+        "price": "10",
+        "image": "https://logorealm.com/wp-content/uploads/2017/03/Coca-Cola-Logo.png",
+        "code": "21"
+    },
+    {
+        "id":"6",
+        "name":"Coke",
+        "quantity": "5",
+        "price": "10",
+        "image": "https://logorealm.com/wp-content/uploads/2017/03/Coca-Cola-Logo.png",
+        "code": "22"
+    },
+        {
+    "id":"7",
+        "name":"Coke",
+        "quantity": "2",
+        "price": "10",
+        "image": "https://logorealm.com/wp-content/uploads/2017/03/Coca-Cola-Logo.png",
+        "code": "23"
+    },
+    {
+        "id":"8",
+        "name":"American Cola",
+        "quantity": "12",
+        "price": "8",
+        "image": "https://www.sourcedupays.com/wp-content/uploads/2015/12/Logo-American-cola.jpg",
+        "code": "24"
+    },
+    {
+        "id":"9",
+        "name":"American Cola",
+        "quantity": "5",
+        "price": "8",
+        "image": "https://www.sourcedupays.com/wp-content/uploads/2015/12/Logo-American-cola.jpg",
+        "code": "31"
+    },
+        {
+        "id":"10",
+        "name":"American Cola",
+        "quantity": "2",
+        "price": "8",
+        "image": "https://www.sourcedupays.com/wp-content/uploads/2015/12/Logo-American-cola.jpg",
+        "code": "32"
+    },
+            {
+        "id":"11",
+        "name":"American Cola",
+        "quantity": "0",
+        "price": "8",
+        "image": "https://www.sourcedupays.com/wp-content/uploads/2015/12/Logo-American-cola.jpg",
+        "code": "33"
+    },
+            {
+        "id":"12",
+        "name":"American Cola",
+        "quantity": "3",
+        "price": "8",
+        "image": "https://www.sourcedupays.com/wp-content/uploads/2015/12/Logo-American-cola.jpg",
+        "code": "34"
+    },
+    {
+        "id":"13",
+        "name":"Snickers",
+        "quantity": "9",
+        "price": "7",
+        "image": "https://www.candywarehouse.com/item-images/133555-02_snickers-peanut-butter-squared-king-size-candy-bars-18-piece-box.jpg?resizeid=102&resizeh=500&resizew=500",
+        "code": "41"
+    },
+        {
+        "id":"14",
+        "name":"Snickers",
+        "quantity": "10",
+        "price": "7",
+        "image": "https://www.candywarehouse.com/item-images/133555-02_snickers-peanut-butter-squared-king-size-candy-bars-18-piece-box.jpg?resizeid=102&resizeh=500&resizew=500",
+        "code": "42"
+    },
+        {
+        "id":"15",
+        "name":"Snickers",
+        "quantity": "9",
+        "price": "7",
+        "image": "https://www.candywarehouse.com/item-images/133555-02_snickers-peanut-butter-squared-king-size-candy-bars-18-piece-box.jpg?resizeid=102&resizeh=500&resizew=500",
+        "code": "43"
+    },
+    {
+        "id":"16",
+        "name":"Mars",
+        "quantity": "8",
+        "price": "7",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS69E2sW6EmVkEqJf5K8mStdiSaNo5BJYTugg&usqp=CAU",
+        "code": "44"
+    },
+    {
+        "id":"17",
+        "name":"Mars",
+        "quantity": "5",
+        "price": "7",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS69E2sW6EmVkEqJf5K8mStdiSaNo5BJYTugg&usqp=CAU",
+        "code": "51"
+    },
+    {
+        "id":"18",
+        "name":"Mars",
+        "quantity": "6",
+        "price": "7",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS69E2sW6EmVkEqJf5K8mStdiSaNo5BJYTugg&usqp=CAU",
+        "code": "52"
+    },
+    {
+        "id":"19",
+        "name":"Rom Tricolor",
+        "quantity": "5",
+        "price": "5.5",
+        "image": "https://aliensparadox.files.wordpress.com/2017/01/sr99c_pa.png",
+        "code": "53"
+    },
+    {
+        "id":"20",
+        "name":"Rom Tricolor",
+        "quantity": "8",
+        "price": "5.5",
+        "image": "https://aliensparadox.files.wordpress.com/2017/01/sr99c_pa.png",
+        "code": "54"
+    }
+]
